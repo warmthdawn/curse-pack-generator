@@ -1,0 +1,6 @@
+.idea
+.gradle
+build
+*.jar
+manifest.json
+config.json
